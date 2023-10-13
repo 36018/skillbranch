@@ -1,0 +1,17 @@
+hoe je alle branches kan tonen via de command prompt
+git branch
+hoe je een branche renamed via de command prompt
+git branch -m <old-name> <new-name>”
+
+hoe je een branche delete via de command prompt
+1. git branch --delete old-branch.
+2. git branch -d old-branch.
+
+maak een nieuwe branch: commands
+git branch <name-of-new-branch>
+
+check die branch uit
+git checkout <name-of-new-branch>
+
+
+
